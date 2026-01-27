@@ -50,8 +50,8 @@ bash
 🔧 Сборка из исходников
 bash
 
-# Установите PyInstaller
-pip install pyinstaller
+    # Установите PyInstaller
+    pip install pyinstaller
 
-# Соберите exe
-pyinstaller --onefile  sendTG_6.py
+    # Соберите exe
+    pyinstaller --onefile  sendTG_6.py
